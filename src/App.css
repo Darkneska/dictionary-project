@@ -1,0 +1,12 @@
+ .App  {
+   background-color: #FED4D5;
+   text-align: center;
+   display: block;
+   
+ }
+ .App h1{
+   padding-bottom: 80px;
+ }
+ .App img{
+  width: 400px;
+ }
