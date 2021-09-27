@@ -1,12 +1,17 @@
- .App  {
+ .App .container {
    background-color: #FED4D5;
    text-align: center;
    display: block;
    
  }
  .App h1{
-   padding-bottom: 80px;
+   padding-bottom: 50px;
  }
  .App img{
   width: 400px;
  }
+ .App footer {
+  font-size: 11px;
+  margin: 10px 0;
+  text-align: center;
+}
