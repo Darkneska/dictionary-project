@@ -10,7 +10,8 @@ export default function App() {
       <h1>Search engine</h1>
       <Dictionary />
      </header>
-     <footer><a
+    </div>
+    <footer><a
         href="https://github.com/Darkneska/dictionary-project"
         target="_blank"
         rel="noreferrer"
@@ -27,7 +28,6 @@ export default function App() {
       >
         hosted on Netlify
       </a></footer>
-    </div>
     </div>
   );
 }
