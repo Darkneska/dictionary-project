@@ -7,8 +7,8 @@ export default function App() {
       <div className="container">
      <header className="App-header">
       <img src="https://i.pinimg.com/originals/95/1a/5c/951a5cec4316bdc23b41adb6428d2284.gif" alt="main"></img>
-      <h1>Search engine</h1>
-      <Dictionary />
+      <h1>What word do you want to look up?</h1>
+      <Dictionary defaultKeyword="sunset" />
      </header>
     </div>
     <footer><a
